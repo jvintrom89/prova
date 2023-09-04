@@ -1,0 +1,220 @@
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V2\cliente_v2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V2\cliente_v2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V2\cliente_v2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V2\cliente_v2\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V2\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V2\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V2\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V2\cliente_v2\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V2\cliente_v2\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V2\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V2\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\SO\V2\cliente_v2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\SO\V2\cliente_v2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\SO\V2\cliente_v2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\SO\V2\cliente_v2\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\SO\V2\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\SO\V2\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\SO\V2\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\SO\V2\cliente_v2\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\SO\V2\cliente_v2\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\SO\V2\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\SO\V2\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jvint\Documents\Visual Studio 2019\Grupo-2-SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jvint\Documents\Visual Studio 2019\Grupo-2-SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jvint\Documents\Visual Studio 2019\Grupo-2-SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jvint\Documents\Visual Studio 2019\Grupo-2-SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\Users\jvint\Documents\Visual Studio 2019\Grupo-2-SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\jvint\Documents\Visual Studio 2019\Grupo-2-SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\jvint\Documents\Visual Studio 2019\Grupo-2-SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jvint\Documents\Visual Studio 2019\Grupo-2-SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\Users\jvint\Documents\Visual Studio 2019\Grupo-2-SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\Users\jvint\Documents\Visual Studio 2019\Grupo-2-SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jvint\Documents\Visual Studio 2019\Grupo-2-SO\v2\Grupo-2-SO\cliente_v2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V4\cliente_v4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V4\cliente_v4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V4\cliente_v4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V4\cliente_v4\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V4\cliente_v4\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V4\cliente_v4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V4\cliente_v4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V4\cliente_v4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V4\cliente_v4\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V4\cliente_v4\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V4\cliente_v4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V4\cliente_v4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\SO\V3\cliente_v4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\SO\V3\cliente_v4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\SO\V3\cliente_v4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\SO\V3\cliente_v4\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\SO\V3\cliente_v4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\SO\V3\cliente_v4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\SO\V3\cliente_v4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\SO\V3\cliente_v4\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\SO\V3\cliente_v4\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\SO\V3\cliente_v4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\SO\V3\cliente_v4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5\cliente_v5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5\cliente_v5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5\cliente_v5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\V5\V5\cliente_v5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\V5\V5\cliente_v5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\V5\V5\cliente_v5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\V5\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\V5\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\V5\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\V5\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\V5\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\V5\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\V5\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\V5\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\max17\OneDrive\Escriptori\Max\EETAC\SO\V5\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\jvint\Documents\Visual Studio 2019\V5\V5\cliente_v5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jvint\Documents\Visual Studio 2019\V5\V5\cliente_v5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jvint\Documents\Visual Studio 2019\V5\V5\cliente_v5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jvint\Documents\Visual Studio 2019\V5\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\Users\jvint\Documents\Visual Studio 2019\V5\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\jvint\Documents\Visual Studio 2019\V5\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\jvint\Documents\Visual Studio 2019\V5\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jvint\Documents\Visual Studio 2019\V5\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\Users\jvint\Documents\Visual Studio 2019\V5\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\Users\jvint\Documents\Visual Studio 2019\V5\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jvint\Documents\Visual Studio 2019\V5\V5\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5_2\cliente_v5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5_2\cliente_v5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5_2\cliente_v5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5_2\cliente_v5\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5_2\cliente_v5\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5_2\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5_2\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5_2\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5_2\cliente_v5\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5_2\cliente_v5\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5_2\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V5_2\cliente_v5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V6\cliente_v6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V6\cliente_v6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V6\cliente_v6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V6\cliente_v6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V6\cliente_v6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V6\cliente_v6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V6\cliente_v6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V6\cliente_v6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V6\cliente_v6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V6\cliente_v6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V6\cliente_v6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\34644\Desktop\UNI\4Q\SO\BBDD\V6\cliente_v6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\cliente_v6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\cliente_v6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\cliente_v6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\cliente_v6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\cliente_v6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\cliente_v6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\cliente_v6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\cliente_v6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\cliente_v6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\cliente_v6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\cliente_v6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\cliente_v6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V8\V6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V8\V6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V8\V6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V8\V6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V8\V6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V8\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V8\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V8\V6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V8\V6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V8\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V8\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V8\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\jvint\Documents\Visual Studio 2019\V6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jvint\Documents\Visual Studio 2019\V6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jvint\Documents\Visual Studio 2019\V6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jvint\Documents\Visual Studio 2019\V6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\Users\jvint\Documents\Visual Studio 2019\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\jvint\Documents\Visual Studio 2019\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\jvint\Documents\Visual Studio 2019\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jvint\Documents\Visual Studio 2019\V6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\Users\jvint\Documents\Visual Studio 2019\V6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\Users\jvint\Documents\Visual Studio 2019\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jvint\Documents\Visual Studio 2019\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V9\V6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V9\V6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V9\V6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V9\V6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V9\V6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V9\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V9\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V9\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V9\V6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V9\V6\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V9\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V9\V6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\victor\Desktop\Andrea\SO\V6 2\Cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\victor\Desktop\Andrea\SO\V6 2\Cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\victor\Desktop\Andrea\SO\V6 2\Cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\victor\Desktop\Andrea\SO\V6 2\Cliente\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\Users\victor\Desktop\Andrea\SO\V6 2\Cliente\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor\Desktop\Andrea\SO\V6 2\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\victor\Desktop\Andrea\SO\V6 2\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\victor\Desktop\Andrea\SO\V6 2\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\victor\Desktop\Andrea\SO\V6 2\Cliente\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\Users\victor\Desktop\Andrea\SO\V6 2\Cliente\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\Users\victor\Desktop\Andrea\SO\V6 2\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\victor\Desktop\Andrea\SO\V6 2\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6 3\Cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6 3\Cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6 3\Cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6 3\Cliente\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6 3\Cliente\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6 3\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6 3\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6 3\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6 3\Cliente\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6 3\Cliente\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6 3\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Max\Documents\max17\OneDrive\Escriptori\Max\EETAC\SO\V6 3\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\jvint\Documents\Visual Studio 2019\V6\Cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jvint\Documents\Visual Studio 2019\V6\Cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jvint\Documents\Visual Studio 2019\V6\Cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jvint\Documents\Visual Studio 2019\V6\Cliente\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.AssemblyReference.cache
+C:\Users\jvint\Documents\Visual Studio 2019\V6\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\jvint\Documents\Visual Studio 2019\V6\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\jvint\Documents\Visual Studio 2019\V6\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jvint\Documents\Visual Studio 2019\V6\Cliente\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.GenerateResource.cache
+C:\Users\jvint\Documents\Visual Studio 2019\V6\Cliente\WindowsFormsApplication1\obj\Debug\clienteV2Form.csproj.CoreCompileInputs.cache
+C:\Users\jvint\Documents\Visual Studio 2019\V6\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jvint\Documents\Visual Studio 2019\V6\Cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
