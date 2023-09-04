@@ -8,6 +8,7 @@
 #include <mysql.h>
 //#include <mysql.h>
 //#include <mysql.h>
+//#include <mysql.h>
 #include <pthread.h>
 //Estructura necesaria para acceso excluyente
 pthread_mutex_t mutex =PTHREAD_MUTEX_INITIALIZER;
